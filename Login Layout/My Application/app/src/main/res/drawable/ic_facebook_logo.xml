@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="100dp"
+    android:height="100dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+
+    <!-- Blue Circle Background -->
+    <path
+        android:fillColor="#1877F2"
+        android:pathData="M50,0c27.614,0 50,22.386 50,50s-22.386,50 -50,50S0,77.614 0,50 22.386,0 50,0z" />
+
+    <!-- White "f" Letter -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M60.7,50.1h-7.1v24.9h-10.4V50.1h-5.6V41.7h5.6v-5.4c0,-4.7 2.2,-12 12,-12l8.8,0v9.8h-6.4c-1.1,0 -2.7,0.6 -2.7,3v4.6h9.2l-1.1,8.4z" />
+
+</vector>
